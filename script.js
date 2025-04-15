@@ -27,3 +27,4 @@ alternaContraste.addEventListener('click',function(){
     document.body.classList.toggle('auto-contraste')
 })
 })
+ScrollReveal().reveal('#inicio', { delay: 500 });
